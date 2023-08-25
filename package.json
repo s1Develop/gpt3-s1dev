@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "react-icons": "^4.10.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  }
-}
