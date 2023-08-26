@@ -1,5 +1,6 @@
 # gpt3-s1dev
-## https://gpt3-s1dev.com/
+<a href="https://s1develop.github.io/gpt3-s1dev/" target="_blank">gpt3-s1dev</a>
+
 ## Here is a webpage for my first React project.
 
 ### My first website project was a great learning experience. I completed the hosting of my webpage and finished the project using React by following an online video tutorial. Throughout the process, I learned following skills,
