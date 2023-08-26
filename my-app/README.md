@@ -7,4 +7,4 @@
 ### - mastered fundamental CSS properties such as flex and grid, as well as the fundamentals of the CSS BEM Model. 
 ### - I added soft and pleasant animations to my website, along with complex gradients. 
 ### - I made sure to include perfectly placed media queries for satisfactory responsiveness, covering almost all devices. 
-### - At the end of the project, I learned how to deploy my website through Hostinger.
+### - At the end of the project, I learned how to deploy my website through Hostinger. However, I also discovered that I could host my own website using GitHub Pages. So, I used GitHub Pages instead.
